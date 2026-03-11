@@ -1,11 +1,11 @@
 # Customer Segmentation using K-Means Clustering
 
-## 📌 Executive Summary
+## Executive Summary
 This project applies **Unsupervised Machine Learning** to identify distinct customer segments within a retail dataset. By analyzing features like Annual Income and Spending Scores, the model uncovers hidden patterns that allow for data-driven marketing strategies and personalized customer engagement.
 
 ---
 
-## 🛠️ The Data Science Pipeline
+## The Data Science Pipeline
 
 ### 1. Exploratory Data Analysis (EDA)
 * Distribution analysis of Age, Income, and Spending Score.
@@ -25,7 +25,7 @@ This project applies **Unsupervised Machine Learning** to identify distinct cust
 
 ---
 
-## 📊 Key Insights & Segments
+## Key Insights & Segments
 The model typically identifies the following high-impact segments:
 * **Target Group:** High income, high spending (Premium customers).
 * **Value Seekers:** Low income, high spending (Potential for loyalty programs).
@@ -34,7 +34,7 @@ The model typically identifies the following high-impact segments:
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 * **Language:** Python
 * **Libraries:** Pandas, NumPy, Scikit-learn
 * **Visualization:** Matplotlib, Seaborn
