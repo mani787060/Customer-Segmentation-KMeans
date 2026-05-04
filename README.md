@@ -42,6 +42,14 @@ The model typically identifies the following high-impact segments:
 ---
 
 ## How to Use
-1. Clone the repo: `git clone https://github.com/your-username/customer-segmentation-kmeans.git`
-2. Install requirements: `pip install -r requirements.txt`
-3. Open the Jupyter Notebook: `jupyter notebook customer_segmentation.ipynb`
+1. **Clone the repo:**    
+   ```bash
+   git clone https://github.com/your-username/customer-segmentation-kmeans.git
+   
+2. **Install requirements:** 
+   ```bash
+   pip install -r requirements.txt
+   
+3. Open the Jupyter Notebook: 
+   ```bash
+   jupyter notebook customer_segmentation.ipynb
