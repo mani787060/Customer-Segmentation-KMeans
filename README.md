@@ -194,8 +194,3 @@ Potential extensions include:
 
 - GitHub: [@mani787060](https://github.com/mani787060)
 - LinkedIn: [Mani Ratan](https://www.linkedin.com/in/mani-ratan-159963289/)
-
----
-
-If you find this project useful, consider giving the repository a ⭐ on GitHub.
-
